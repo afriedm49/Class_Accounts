@@ -6,8 +6,6 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizza:
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
-
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
@@ -26,4 +24,4 @@ Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
-
+Asher F. | [Afriedm49](https://github.com/afriedm49) | I like github. 
